@@ -1,8 +1,7 @@
-age = 18
+age = 20
 
-if age < 18 :
+if age <= 18 :
     print("you are not elgible to vote ");
-else
-    print("hey");
+else :
+    print("hey you are eligible bro ");
 
-    
