@@ -26,6 +26,8 @@
 
 
 
+#  Assignment 
+
 # get user input 
 number = int(input("enter a number : "))
 
