@@ -46,3 +46,6 @@ area2 = calculate_area(12,4)
 print(area1)
 print(area2)
 print(area1,area2)
+
+
+# added this line to check issue
