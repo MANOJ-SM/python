@@ -6,13 +6,11 @@
 
 # 2) Tuple   # immutable   # ordered  #Allow duplicates 
 
-# my_tuple = [ 1,2,3, "apple","banana",3];
-# print(len(my_tuple));  
-
-# my_tuple1 = [ 1,2,3, "apple","banana",3];                               // wrrrrooonng              
-# my_tuple2 = [ 4,5,6, "guava","orange",3];
-# result = my_tuple1 + my_tuple2 ;
-# print(result);
+my_tuple = ( 1,2,3, "apple","banana",3);
+print(len(my_tuple));  
+             
+my_tuple = (4,5,6, "guava","orange",3);
+print(my_tuple);
 
 
 # 3) Dictinary   #  mutable   #unordered  #unique key 
@@ -57,18 +55,18 @@
 
 #1. create a list of student names 
 
-students = [ "manu" , "abhi", "megha","chandu","suman","kasturi"];
+# students = [ "manu" , "abhi", "megha","chandu","suman","kasturi"];
 
 # 2.dict with student name as key and score as value 
 
-scores = { " satya" : "35" , "manu": "89"};
+# scores = { " satya" : "35" , "manu": "89"};
 
 # 3.add new name and score 
 
-scores["deepika"] = 90
+# scores["deepika"] = 90
 
 # 4. print the updated dict 
 
-print(scores);
+# print(scores);
 
 
