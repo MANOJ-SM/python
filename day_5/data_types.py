@@ -9,7 +9,7 @@
 my_tuple = ( 1,2,3, "apple","banana",3);
 print(len(my_tuple));  
              
-my_tuple = (4,5,6, "guava","orange",3);
+my_tuple.(4,5,6, "guava","orange",3);
 print(my_tuple);
 
 
