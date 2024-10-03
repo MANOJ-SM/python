@@ -1,0 +1,10 @@
+
+class : template/blueprint  for creating a object   // defines structure  // reusable 
+
+object : created  from a class ( instance ) , uniue and functional 
+
+encapsulation : groups data and methods in a class , restrict direact data access 
+
+private : accessible only in class 
+public : accessiable overall 
+
